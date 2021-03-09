@@ -1,0 +1,18 @@
+.boxing-jack h5 {
+    margin-left: 4%;
+}
+h3 {
+    display: flex;
+    margin-top: 6%;
+    justify-content: center;
+}
+
+.boxing-ima {
+    display: flex;
+    margin-right: 0%;
+}
+
+.boxing-ima img {
+    margin-top: 5%;
+    width: 70%;
+}

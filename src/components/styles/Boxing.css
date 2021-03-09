@@ -1,0 +1,28 @@
+h2 {
+    justify-content: center;
+    display: flex;
+}
+
+h5 {
+    margin: 2%;
+}
+.boxing {
+    margin-top: 3%;
+    /* border: red solid; */
+    width: 80%; 
+    margin-left: 10%;
+    color: black;
+}
+
+.boxing-info {
+    height: 200px;
+    border-radius: 20%;
+    color: black;
+    background: rgb(119, 119, 253);
+    justify-content: center;
+}
+.boxing-blocks {
+display: flex;
+width: 100%;
+margin-left: 10%;
+}

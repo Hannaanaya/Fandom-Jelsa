@@ -1,0 +1,16 @@
+.box-ima {
+    /* border: red solid; */
+    width: 80%;
+    /* height: 40%; */
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.box-ima img {
+    display: flex;
+    justify-content: center;
+    opacity: 0.8;
+    width: 100%;
+    /* width: 1360px; */
+    height: 600px;
+}

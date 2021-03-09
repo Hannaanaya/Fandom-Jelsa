@@ -1,0 +1,28 @@
+.histories {
+    /* border: red solid; */
+    width: 80%;
+    margin-left: 10%;
+    /* justify-content: center; */
+}
+
+.histories-content img {
+    height: 500px;
+    width: 500px;
+}
+
+.histo-video {
+    display: flex;
+    /* justify-content: center; */
+    margin-left: 0%;
+}
+.histo-media p {
+    display: flex;
+    margin-top: 3%;
+}
+
+.histo-media img {
+    height: 500px;
+    margin-right: 3%;
+    margin-left: 5%;
+    justify-content: space-between;
+}

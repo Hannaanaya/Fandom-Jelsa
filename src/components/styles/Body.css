@@ -1,0 +1,10 @@
+body {
+    background: url('../../images/fondo.jpg'); 
+    background-repeat: repeat;
+    width: 100%;
+}
+.body {
+    /* opacity: 0.3; */
+    /* background: url('../../images/fondo.jpg'); 
+    background-repeat: repeat; */
+}
